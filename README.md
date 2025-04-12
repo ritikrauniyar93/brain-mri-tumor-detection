@@ -16,9 +16,6 @@ The dataset is divided into two folders:
 Example of dataset structure:
 Dataset/ ├── tumor/ │ ├── image1.jpg │ ├── image2.jpg │ └── ... └── no_tumor/ ├── image1.jpg ├── image2.jpg └── ...
 
-bash
-Copy
-Edit
 
 ## 🚀 Getting Started
 
@@ -28,14 +25,10 @@ To get the project up and running locally, follow these steps:
 ```bash
 git clone https://github.com/ritikrauniyar93/brain-mri-tumor-detection.git
 2. Install dependencies:
-bash
-Copy
-Edit
+
 pip install tensorflow matplotlib numpy
 3. Run the detection script:
-bash
-Copy
-Edit
+
 python brain_mri_detection.py
 🧑‍💻 Code Explanation
 brain_mri_detection.py: Main script for training the model and making predictions.
