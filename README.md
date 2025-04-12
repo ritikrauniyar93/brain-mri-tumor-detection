@@ -43,4 +43,3 @@ brain_mri_detection.py: Main script for training the model and making prediction
 model.h5: Pre-trained model saved in H5 format.
 
 utils.py: Utility functions for preprocessing images and visualizing results.
-
